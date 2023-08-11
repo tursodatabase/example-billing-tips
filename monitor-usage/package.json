@@ -1,0 +1,24 @@
+{
+  "name": "monitor-usage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsx src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.17.4",
+    "tsx": "^3.12.7",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "sleep-promise": "^9.1.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
