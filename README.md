@@ -1,4 +1,4 @@
-# Techniques to optimize your Turso billing quota
+# Techniques to optimize your Turso billing allowance
 
 This repository contains some examples for reducing the [billed usage] of a
 [Turso] database (in terms of rows read) for certain types queries that might
@@ -86,7 +86,7 @@ actual usage of the test database as SQL commands were executed against it.
 
 
 [billed usage]: https://docs.turso.tech/billing-details
-[companion blog post]: https://blog.turso.tech
+[companion blog post]: https://blog.turso.tech/tips-for-maximizing-your-turso-billing-allowances-48a0fca163e9
 [Turso]: https://turso.tech
 [Use an index]: https://www.sqlite.org/queryplanner.html
 [SQLite triggers]: https://www.sqlite.org/lang_createtrigger.html
